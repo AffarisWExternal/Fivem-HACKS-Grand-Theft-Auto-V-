@@ -18,3 +18,6 @@ Dumper
 Lua Executor
 
 ![image](https://github.com/user-attachments/assets/743ffa25-91c2-49ec-94fd-5ed659f283d4)
+
+
+MORE INFO discord.gg/nanorblx
